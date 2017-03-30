@@ -3,7 +3,7 @@
 # Wipe for AsusWRT
 #
 # This script downloads and compiles all packages needed for adding 
-# secure file wiping capability for magnetic media to Asus ARM routers.
+# secure file wiping capability of magnetic media to Asus ARM routers.
 #
 # Before running this script, you must first compile your router firmware so
 # that it generates the AsusWRT libraries.  Do not "make clean" as this will
