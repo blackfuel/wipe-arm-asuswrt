@@ -9,4 +9,7 @@ cd wipe-arm-asuswrt
 ./wipe.sh
 ```
 
-[manpage for wipe](https://github.com/blackfuel/wipe-arm-asuswrt/blob/master/wipe.md)
+[Manpage for wipe](https://github.com/blackfuel/wipe-arm-asuswrt/blob/master/wipe.md)
+
+[Secure Deletion of Data from Magnetic and Solid-State Memory](http://wipe.sourceforge.net/secure_del.html)  
+([Local Copy](https://github.com/blackfuel/wipe-arm-asuswrt/blob/master/secure_del.md))
