@@ -8,3 +8,5 @@ git clone https://github.com/blackfuel/wipe-arm-asuswrt.git
 cd wipe-arm-asuswrt
 ./wipe.sh
 ```
+
+[manpage for wipe](https://github.com/blackfuel/wipe-arm-asuswrt/blob/master/wipe.md)
