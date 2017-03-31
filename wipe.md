@@ -1,3 +1,5 @@
+<html>
+
 <body>
 
 <h1 align="center">WIPE</h1>
@@ -23,7 +25,7 @@
 </h2>
 
 
-<p style="margin-left:11%; margin-top: 1em">wipe &minus;
+<p style="margin-left:11%; margin-top: 1em;font-family:Courier New;">wipe &minus;
 secure file deletion utility</p>
 
 <h2>SYNOPSIS
